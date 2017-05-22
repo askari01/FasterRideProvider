@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8E84FE1A-0493-4630-8803-6ED7FADCA708</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TaxiNow Driver</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TaxiNow Driver.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/uberforxelluminati/taxinowproviderv3_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<array>
+			</array>
+</dict>
+</plist>

@@ -1,0 +1,264 @@
+/*
+ Localizable.strings
+ UberNewDriver
+ 
+ Created by Elluminati on 27/09/14.
+ Copyright (c) 2014 Elluminati. All rights reserved.
+ */
+
+"REGISTER_FAIL" = "Registration failed";
+"REGISTER_SUCCESS" = "Thank You for your registration, Please wait while the admin approves your request";
+"SIGING_SUCCESS" = "Welcome ";
+"CAM_NOT_AVAILABLE" = "Camera Not Available";
+"SIGNIN_FAILED" = "Login failed, Please try again";
+"NO_INTERNET" = "Check your internet connection";
+"No Internet" = "No Internet";
+"SENDING MAIL" = "Sending mail";
+"OK" = "OK";
+"LOADING" = "Loading";
+"Terms & Conditions" = " Terms & Conditions";
+"PLEASE_WAIT"="Please wait";
+"Back"="Back";
+
+//Home VC
+
+"COPYRIGHTS_NOTE"="All Copyrights Reserved By FasterRide";
+"APPNAME"="  FasterRide Driver";
+"IMPORTANT_NOTE"="Important Note : ";
+"IMPORTANT_NOTE_TEXT"="Greetings, Thank you for taking interest in Cab Anytime, We have put in a lot of efforts in developing the software and we will continue to provide you the same, and lot more in future.\n\nThis is to note that the software is owned by Elluminati and anybody selling or redirecting you from any other sites to be considered scammers. We think that our customers must be satisfied and happy to deal with us, and save them from lending money in wrong hands.\n\nFor Inquires, Customisation, Support & Installation, Please contact the below sites,\n\nhttp://elluminatiinc.com\n\nThank you for paying attention.\nRegards,\nElluminati";
+"Enable Location access"="@Please Enable location access from Setting -> Taxinow Driver -> Privacy -> Location services";
+
+// SIGn VC
+
+"SIGN_IN" = "Please wait while we sign you in";
+"SIGN UP" = "Don’t have an account? Register";
+"Sign In" = "  Sign In";
+"SIGN IN" = "Sign In";
+"REGISTER" = "Register";
+"FORGOT_PASSWORD" = " Forgot password ?";
+"SEND PASSWORD" = "SEND PASSWORD";
+"EMAIL" = "EMAIL";
+"USERNAME"="Email";
+"PASSWORD" = "PASSWORD";
+"CONFIRM PASSWORD" = "CONFIRM PASSWORD";
+
+"ENTER_EMAIL" = "Enter email";
+"ENTER_PASSWORD" = "Enter password";
+
+//"FORGOT_PASSWORD" = "FORGOT_PASSWORD";
+
+"Register" = "  Register";
+"or" = "or";
+"FIRST NAME" = "FIRST NAME";
+"LAST NAME" = "LAST NAME";
+"NUMBER" = "NUMBER";
+"TYPE" = "TYPE";
+"ADDRESS"="ADDRESS";
+"BIO"="BIO";
+"TAXI MODEL"="TAXI MODEL";
+"TAXI NUMBER"="TAXI NUMBER";
+"ZIPCODE" = "ZIPCODE";
+"SELECT YOUR VEHICLE" = "Select your vehicle";
+"I agree to the terms and conditions" = "I agree to the terms and conditions";
+"Cancel" = "Cancel";
+"Take Photo" = "Take photo";
+"Select Image" = "Select image";
+"INFO"="Please verify fields mark with info sign,you will not be unable to modify these fields in future.";
+"INFO_EMAIL"="Please verify your e-mail address,you will not be able to modify it in future.";
+"INFO_TAXI_NUMBER"="Please verify your taxi number,you will not be unable to modify it in future.";
+"INFO_TAXI_MODEL"="Please verify model of your car,you will not be able to modify it in future.";
+
+//PickMeUp VC
+
+"WAITING_ADMIN_APPROVE" = "Waiting";
+"MENU" = "  Menu";
+"ACCEPT" = "Accept";
+"REJECT" = "Reject";
+"REQUEST_ACCEPTED" = "Requset Accepted";
+"REQUEST_REJECTED" = "Requset Rejected";
+"YOU ARE NOT APPROVED BY ADMIN" = "You will receive confirmation email once admin approves your application.";
+"YOU ARE NOT APPROVED BY ADMIN REVIEW"="Your application is under review by admin";
+
+//Arrived MapVC
+
+"WAITING_WALKER_START" = "Waiting for the provider to start";
+"WAITING_TRIP_START" = "Waiting for the trip to start";
+"WAITING_TRIP_COMPLETE" = "Waiting for the trip to complete";
+"WALKER_STARTED" = "Provider has started coming towards you";
+"WALKER_ARRIVED" = "Provider has arrived at your place";
+"WALK_STARTED" = "Your trip has been started";
+"JOB_DONE" = "Your trip is completed";
+"CALL USER" = "CALL USER";
+"TAP WHEN STARTED" = "TAP WHEN STARTED";
+"TAP WHEN ARRIVED" = "TAP WHEN ARRIVED";
+"START TRIP" = "START TRIP";
+"END TRIP" = "END TRIP";
+"CONFIRM" = "CONFIRM";
+"Feedback" = "  Feedback";
+"Invoice" = "  Invoice";
+"SUBMIT" = "SUBMIT";
+"COMMENT" = "COMMENT";
+"CASH" = " Cash";
+"CARD" = " Card";
+"EST_TIME" = "Est.Time";
+"EST_DISTANCE" = "Est.Distance";
+"TOTAL_TIME" = "Total Time";
+"TOTAL_DISTANCE" = "Total Distance";
+"TIME" = "Time";
+"DISTANCE" = "Distance";
+"Please collect cash from client for your trip" = "Please collect cash from client for your trip";
+
+//FeedbackVC
+
+"WAITING_FOR_FEEDBACK" = "Waiting for the provider to provide feedback";
+"RATING_COMPLETED" = "Thank You for providing feedback";
+"kms" = "kms";
+"Miles" = "Miles";
+"Mins" = "min";
+"COMMENTS" = "Write about your experience. We are always glad to hear from you.";
+"PLEASE_RATINGS"="Please give ratings to client";
+
+// HIstory VC
+
+"LOADING_HISTORY" = "Loading history";
+"History" = "  History";
+"Invoice" = "  Invoice";
+"BASE PRICE" = "Base Price";
+"DISTANCE COST" = "Distance Cost";
+"PROMO BOUNCE" = "Promo Bonus";
+"REFERRAL BOUNCE" = "Referral Bonus";
+"per mile" = "per mile";
+"per mins" = "per min";
+"TIME COST" = "Time Cost";
+"Total Due" = "Total";
+"CLOSE" = "CLOSE";
+"PHONE" = "PHONE";
+"ADDRESS" = "ADDRESS";
+"ZIPCODE" = "ZIPCODE";
+"Contact Us" = " Contact Us";
+"Are Sure You want to log Out" = "Are you sure you want to logout ?";
+
+// Profile VC
+
+"UPDATING_PROFILE" = "Updating profile, please wait ...";
+"PROFILE" = "  Profile";
+"PROFILE_UPDATED" = "Profile is updated successfully";
+"NAME" = "NAME";
+"NEW PASSWORD" = "NEW PASSWORD";
+"CURRENT PASSWORD" = "CURRENT PASSWORD";
+"CONFIRM NEW PASSWORD" = "CONFIRM NEW PASSWORD";
+"Edit Profile" = "Edit Profile";
+"Update Profile" = "Update Profile";
+"This field is not editable."="This field is not editable.";
+
+//Forgot Password
+
+"PASSWORD_SENT_SUCCESS" = "Your password has been sent to your registered email";
+"ERROR"="Oops ! An error occured, Please try again.";
+
+//Setting VC
+
+"AVAILABILITY_UODATE"="Your availability has been updated";
+"Setting" = " Setting";
+"Settings" = " Settings";
+"Available to drive?" = "Available to drive?";
+"Sound" = "Sound";
+"YES" = "YES";
+"NO" = "NO";
+"ON" = "Sound On";
+"OFF" = "Sound Off";
+"Share" = " Share";
+"GO_ONLINE"="Go online";
+"GO_OFFLINE"="Go offline";
+"ONLINE"="  Online";
+"OFFLINE"="  Offline";
+"Contact Us" = "Contact Us";
+"LOG OUT" = " Logout";
+"CHANGING AVAILABILITY"="CHANGING AVAILABILITY";
+
+// register VC
+
+"PLEASE_FIRST_NAME"="Please enter a first name.";
+"PLEASE_LAST_NAME"="Please enter a last name.";
+"PLEASE_NAME"="Please enter a name.";
+"PLEASE_BIRTHDATE"="Please enter a birthdate.";
+"PLEASE_EMAIL"="Please enter a email address.";
+"PLEASE_NUMBER"="Please enter a number.";
+"PLEASE_PASSWORD"="Please enter a password.";
+"PLEASE_RETYPE_PASSWORD"="Please retype a password.";
+"NOT_MATCH_RETYPE"="Confirm password do not match with new password.";
+"PLEASE_TAXI_MODEL" = "Please enter a taxi model.";
+"PLEASE_TAXI_NUMBER" = "Please enter a taxi number.";
+"PLEASE_NUMBER_MIN" = "Please enter atleast 10 digits in phone no.";
+"PLEASE_VALID_EMAIL"="Please enter a valid email address.";
+"REGISTER_SUCCESS"="Successfully registered!";
+"REGISTER_FAIL"="Registration failed Please try again.";
+"Please Select Profile Picture" = "Please select profile picture";
+"Please Select Service Type" = "Please select vehicle";
+"Today" = "TODAY";
+"Yesterday" = "YESTERDAY";
+
+// Logout
+
+"WAITING_LOGOUT" = "Waiting for logout";
+"LOGED_OUT" = "Logged out";
+
+//ArrivedVc
+
+"NO_DESTINATION_ADDRESS"="destination address not found";
+"NO_PICK_UP_ADDRESS"="pickup address not found";
+
+// ERROR CODE :
+
+"1"="This Email is not Registered";
+"2"="Password field is required.";
+"3"="Email field is required";
+"4"="First Name field is required.";
+"5"="Last Name field is required.";
+"6"="Image is required.";
+"7"="Push notification token is required.";
+"8"="Device type must be android or ios";
+"9"="Login type is required.";
+"10"="Phone number must be required.";
+"11"="This Email ID is not registered with any social accounts.";
+"12"="Invalid Input";
+"13"="Invalid Phone Number";
+"14"="Email ID already Registred.";
+"15"="Login by mismatch";
+"16"="Invalid Username and Password";
+"17"="Not a Registered User";
+"18"="Not a valid social registration User.";
+"19"="Id of Request is required.";
+
+"20"="Your unique id is missing.";
+"21"="Already Rated.";
+"22"="Service ID does not matches with Service Provider ID";
+"23"="Service ID Not Found";
+"24"="Token Expired";
+"25"="Service Provider ID not Found";
+"26"="Not a valid token";
+"27"="Service Already Started";
+"28"="location points are missing.";
+"29"="accept or reject must be required.";
+"30"="Request ID does not matchesService Provider ID";
+"31"="Request Canceled.";
+"32"="Request ID Not Found.";
+"33"="Service Provider not yet confirmed";
+"34"="Service not yet started";
+"35"="Service Provider not yet arrived";
+"36"="Distance is required.";
+"37"="Time is required.";
+"38"="Invalid Old Password";
+"39"="Old Password must not be blank";
+"40"="Successfully Log-Out";
+
+"SIGN IN WITH"="Sign in with";
+"Register With"="Register with ";
+"don't account register"="Don’t have an account? Register";
+"Upload Picture From"="Upload Picture From";
+"to"="to";
+"from"="from";
+"Select date"="Select date";
+"Payment Mode"="Payment Mode :";
+"Card Payment"="Card";
+"Cash Payment"="Cash";
