@@ -12,9 +12,9 @@
 #define kCLR_RANDOM_COLOR _RGB(arc4random()%255, arc4random()%255, arc4random()%255, 1)
 
 // Kamlesh
-#define DarkBtnColor [UIColor colorWithRed:229.0/255.0 green:57.0/255.0 blue:53.0/255.0 alpha:1.0]
-#define LightBtnColor [UIColor colorWithRed:241.0/255.0 green:70.0/255.0 blue:66.0/255.0 alpha:1.0]
-#define MenuViewColor [UIColor colorWithRed:229.0/255.0 green:57.0/255.0 blue:53.0/255.0 alpha:0.9]
+#define DarkBtnColor [UIColor colorWithRed:27/255.0 green:151.0/255.0 blue:200/255.0 alpha:1.0]
+#define LightBtnColor [UIColor colorWithRed:81/255.0 green:182/255.0 blue:220/255.0 alpha:1.0]
+#define MenuViewColor [UIColor colorWithRed:27/255.0 green:151.0/255.0 blue:200/255.0 alpha:0.9]
 #define ProfileViewColor [UIColor colorWithRed:28.0/255.0 green:92.0/255.0 blue:117.0/255.0 alpha:0.9]
 #define RoundConfirmViewColor [UIColor colorWithRed:80.0/255.0 green:180.0/255.0 blue:136.0/255.0 alpha:1.0]
 #define RefrelCodeColor [UIColor colorWithRed:29.0/255.0 green:73.0/255.0 blue:97.0/255.0 alpha:1.0]
@@ -151,6 +151,7 @@ extern NSString *const SEGUE_PROFILE;
 extern NSString *const SEGUE_SETTINGS;
 extern NSString *const SEGUE_HISTORY;
 extern NSString *const SEGUE_SHARE;
+extern NSString *const SEGUE_HELP;
 extern NSString *const SEGUE_CONTACTUS;
 
 #pragma mark-

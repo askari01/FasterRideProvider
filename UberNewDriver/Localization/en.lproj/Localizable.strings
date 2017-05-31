@@ -25,7 +25,7 @@
 "COPYRIGHTS_NOTE"="All Copyrights Reserved By FasterRide";
 "APPNAME"="  FasterRide Driver";
 "IMPORTANT_NOTE"="Important Note : ";
-"IMPORTANT_NOTE_TEXT"="Greetings, Thank you for taking interest in Cab Anytime, We have put in a lot of efforts in developing the software and we will continue to provide you the same, and lot more in future.\n\nThis is to note that the software is owned by Elluminati and anybody selling or redirecting you from any other sites to be considered scammers. We think that our customers must be satisfied and happy to deal with us, and save them from lending money in wrong hands.\n\nFor Inquires, Customisation, Support & Installation, Please contact the below sites,\n\nhttp://elluminatiinc.com\n\nThank you for paying attention.\nRegards,\nElluminati";
+"IMPORTANT_NOTE_TEXT"="Greetings, Thank you for taking interest in FasterRide, We have put in a lot of efforts in developing the software and we will continue to provide you the same, and lot more in future.\n\nThis is to note that the software is owned by Elluminati and anybody selling or redirecting you from any other sites to be considered scammers. We think that our customers must be satisfied and happy to deal with us, and save them from lending money in wrong hands.\n\nFor Inquires, Customisation, Support & Installation, Please contact the below sites,\n\nhttp://elluminatiinc.com\n\nThank you for paying attention.\nRegards,\nElluminati";
 "Enable Location access"="@Please Enable location access from Setting -> Taxinow Driver -> Privacy -> Location services";
 
 // SIGn VC
@@ -55,9 +55,9 @@
 "TYPE" = "TYPE";
 "ADDRESS"="ADDRESS";
 "BIO"="BIO";
-"TAXI MODEL"="TAXI MODEL";
-"TAXI NUMBER"="TAXI NUMBER";
-"ZIPCODE" = "ZIPCODE";
+"TAXI MODEL"="Car MODEL";
+"TAXI NUMBER"="Car License Number";
+"ZIPCODE" = "State And City";
 "SELECT YOUR VEHICLE" = "Select your vehicle";
 "I agree to the terms and conditions" = "I agree to the terms and conditions";
 "Cancel" = "Cancel";
@@ -65,7 +65,7 @@
 "Select Image" = "Select image";
 "INFO"="Please verify fields mark with info sign,you will not be unable to modify these fields in future.";
 "INFO_EMAIL"="Please verify your e-mail address,you will not be able to modify it in future.";
-"INFO_TAXI_NUMBER"="Please verify your taxi number,you will not be unable to modify it in future.";
+"INFO_TAXI_NUMBER"="Please verify your car License number,you will not be unable to modify it in future.";
 "INFO_TAXI_MODEL"="Please verify model of your car,you will not be able to modify it in future.";
 
 //PickMeUp VC
@@ -134,7 +134,7 @@
 "CLOSE" = "CLOSE";
 "PHONE" = "PHONE";
 "ADDRESS" = "ADDRESS";
-"ZIPCODE" = "ZIPCODE";
+"ZIPCODE" = "State And City";
 "Contact Us" = " Contact Us";
 "Are Sure You want to log Out" = "Are you sure you want to logout ?";
 
@@ -168,6 +168,7 @@
 "ON" = "Sound On";
 "OFF" = "Sound Off";
 "Share" = " Share";
+"HELP" = "FasterRide Help";
 "GO_ONLINE"="Go online";
 "GO_OFFLINE"="Go offline";
 "ONLINE"="  Online";
@@ -187,8 +188,8 @@
 "PLEASE_PASSWORD"="Please enter a password.";
 "PLEASE_RETYPE_PASSWORD"="Please retype a password.";
 "NOT_MATCH_RETYPE"="Confirm password do not match with new password.";
-"PLEASE_TAXI_MODEL" = "Please enter a taxi model.";
-"PLEASE_TAXI_NUMBER" = "Please enter a taxi number.";
+"PLEASE_TAXI_MODEL" = "Please enter a car model.";
+"PLEASE_TAXI_NUMBER" = "Please enter a car License number.";
 "PLEASE_NUMBER_MIN" = "Please enter atleast 10 digits in phone no.";
 "PLEASE_VALID_EMAIL"="Please enter a valid email address.";
 "REGISTER_SUCCESS"="Successfully registered!";

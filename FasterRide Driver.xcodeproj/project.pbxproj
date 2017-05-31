@@ -835,7 +835,7 @@
 				TargetAttributes = {
 					0484A05C19D6821F00C94F51 = {
 						DevelopmentTeam = 824M9D9K7F;
-						ProvisioningStyle = Manual;
+						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
@@ -1135,7 +1135,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = "FasterRide Driver.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: FASTERRIDE LIMITED (824M9D9K7F)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: FASTERRIDE LIMITED (824M9D9K7F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 824M9D9K7F;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1239,8 +1239,8 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fasterride.driver;
 				PRODUCT_NAME = "FastRide Driver";
-				PROVISIONING_PROFILE = "a906313c-2bb0-4936-b220-cf80264605ba";
-				PROVISIONING_PROFILE_SPECIFIER = "FasterRide Driver AdHoc";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -1253,7 +1253,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_ENTITLEMENTS = "FasterRide Driver.entitlements";
 				CODE_SIGN_IDENTITY = "iPhone Distribution: FASTERRIDE LIMITED (824M9D9K7F)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: FASTERRIDE LIMITED (824M9D9K7F)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 824M9D9K7F;
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -1357,8 +1357,8 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.fasterride.driver;
 				PRODUCT_NAME = "FastRide Driver";
-				PROVISIONING_PROFILE = "a906313c-2bb0-4936-b220-cf80264605ba";
-				PROVISIONING_PROFILE_SPECIFIER = "FasterRide Driver AdHoc";
+				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};

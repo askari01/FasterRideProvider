@@ -62,11 +62,11 @@
     self.lblName.font=[UberStyleGuide fontRegularBold:18.0f];
     self.lblName.text=[NSString stringWithFormat:@"%@ %@",[arrUser valueForKey:@"first_name"],[arrUser valueForKey:@"last_name"]];
 	
-    arrListName=[[NSMutableArray alloc]initWithObjects:NSLocalizedString(@"PROFILE",nil),NSLocalizedString(@"History",nil),NSLocalizedString(@"Share",nil),nil];
+    arrListName=[[NSMutableArray alloc]initWithObjects:NSLocalizedString(@"PROFILE",nil),NSLocalizedString(@"History",nil),NSLocalizedString(@"Share",nil),NSLocalizedString(@"HELP",nil),nil];
     
-    arrIdentifire=[[NSMutableArray alloc] initWithObjects:SEGUE_PROFILE,SEGUE_HISTORY,SEGUE_SHARE, nil];
+    arrIdentifire=[[NSMutableArray alloc] initWithObjects:SEGUE_PROFILE,SEGUE_HISTORY,SEGUE_SHARE,SEGUE_HELP, nil];
     
-    arrImages=[[NSMutableArray alloc]initWithObjects:@"nav_profile",@"ub__nav_history",@"nav_referral",@"nav_share",nil];
+    arrImages=[[NSMutableArray alloc]initWithObjects:@"nav_profile",@"ub__nav_history",@"nav_referral",@"nav_share",nil,nil];
 	
     NSMutableArray *arrTemp=[[NSMutableArray alloc]init];
     NSMutableArray *arrImg=[[NSMutableArray alloc]init];
@@ -178,8 +178,13 @@
 
         return;
     }
+    if ([[arrListName objectAtIndex:indexPath.row]isEqualToString:NSLocalizedString(@"help", nil)])
+    {
+        NSLog(@"helpButton pressed");
+        return;
+    }
     
-    if ((indexPath.row >2)&&(indexPath.row<(arrListName.count-1)))
+    if ((indexPath.row >3)&&(indexPath.row<(arrListName.count-1)))
     {
         [self.revealViewController rightRevealToggle:self];
         

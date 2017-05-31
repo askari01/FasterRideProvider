@@ -110,6 +110,7 @@ NSString *const SEGUE_PROFILE=@"profile";
 NSString *const SEGUE_SETTINGS=@"settings";
 NSString *const SEGUE_HISTORY=@"history";
 NSString *const SEGUE_SHARE=@"share";
+NSString *const SEGUE_HELP=@"help";
 NSString *const SEGUE_CONTACTUS=@"contact us";
 
 #pragma mark-
